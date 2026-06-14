@@ -18,3 +18,7 @@ The Printed Paper Sheet stores its text in item custom data and shows the printe
 ## Notes
 
 This is intentionally manual and visual. It is not an automation machine: every historical step is a separate player interaction with chat feedback.
+
+## Blockbench graphics
+
+Instructions for replacing the placeholder voxel art in Blockbench are in [docs/blockbench.md](docs/blockbench.md).
