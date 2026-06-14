@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:black_dye",
+    "minecraft:slime_ball",
+    "minecraft:water_bucket"
+  ],
+  "result": {
+    "id": "gutenbergpress:printing_ink",
+    "count": 4
+  }
+}

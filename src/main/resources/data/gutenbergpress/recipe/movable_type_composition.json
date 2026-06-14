@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": "minecraft:iron_nugget",
+    "P": "minecraft:paper",
+    "B": "minecraft:blackstone"
+  },
+  "pattern": [
+    "III",
+    "IPI",
+    "BIB"
+  ],
+  "result": {
+    "id": "gutenbergpress:movable_type_composition"
+  }
+}

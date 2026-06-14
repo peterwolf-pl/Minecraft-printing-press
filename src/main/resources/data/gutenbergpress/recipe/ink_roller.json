@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "tools",
+  "key": {
+    "W": "minecraft:black_wool",
+    "S": "minecraft:stick",
+    "I": "gutenbergpress:printing_ink"
+  },
+  "pattern": [
+    "WWW",
+    " S ",
+    " I "
+  ],
+  "result": {
+    "id": "gutenbergpress:ink_roller"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "gutenbergpress:block/screw_handle_turned"
+  }
+}

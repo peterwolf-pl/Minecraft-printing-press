@@ -1,0 +1,9 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "gutenbergpress:block/gutenberg_press_master"
+      }
+    }
+  ]
+}

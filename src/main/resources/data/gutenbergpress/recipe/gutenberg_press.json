@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": "gutenbergpress:wooden_frame_part",
+    "D": "gutenbergpress:printing_drawer",
+    "S": "gutenbergpress:press_screw",
+    "P": "minecraft:oak_planks"
+  },
+  "pattern": [
+    "FSF",
+    "PDP",
+    "FPF"
+  ],
+  "result": {
+    "id": "gutenbergpress:gutenberg_press"
+  }
+}

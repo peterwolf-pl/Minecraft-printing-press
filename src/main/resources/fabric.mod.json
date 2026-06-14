@@ -1,0 +1,24 @@
+{
+	"schemaVersion": 1,
+	"id": "gutenbergpress",
+	"version": "${version}",
+	"name": "Gutenberg Printing Press",
+	"description": "An oversized educational Gutenberg-style printing press with visible movable type, ink, paper, drawer, platen, and screw steps.",
+	"authors": [
+		"Piotrek"
+	],
+	"icon": "assets/gutenbergpress/icon.png",
+	"license": "CC0-1.0",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.peterwolf.gutenbergpress.GutenbergPrintingPressMod"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.1.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

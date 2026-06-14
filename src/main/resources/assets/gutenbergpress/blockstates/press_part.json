@@ -1,0 +1,72 @@
+{
+  "multipart": [
+    {
+      "when": { "part": "reserved" },
+      "apply": { "model": "gutenbergpress:block/empty" }
+    },
+    {
+      "when": { "part": "frame_post" },
+      "apply": { "model": "gutenbergpress:block/wooden_frame_part" }
+    },
+    {
+      "when": { "part": "base_beam" },
+      "apply": { "model": "gutenbergpress:block/base_beam" }
+    },
+    {
+      "when": { "part": "top_beam" },
+      "apply": { "model": "gutenbergpress:block/top_beam" }
+    },
+    {
+      "when": { "part": "bed" },
+      "apply": { "model": "gutenbergpress:block/printing_bed" }
+    },
+    {
+      "when": { "part": "drawer_out" },
+      "apply": { "model": "gutenbergpress:block/printing_drawer" }
+    },
+    {
+      "when": { "part": "drawer_in" },
+      "apply": { "model": "gutenbergpress:block/printing_drawer_inserted" }
+    },
+    {
+      "when": { "part": "type_clean" },
+      "apply": { "model": "gutenbergpress:block/type_clean" }
+    },
+    {
+      "when": { "part": "type_inked" },
+      "apply": { "model": "gutenbergpress:block/type_inked" }
+    },
+    {
+      "when": { "part": "paper_blank" },
+      "apply": { "model": "gutenbergpress:block/paper_blank" }
+    },
+    {
+      "when": { "part": "paper_printed" },
+      "apply": { "model": "gutenbergpress:block/paper_printed" }
+    },
+    {
+      "when": { "part": "platen_high" },
+      "apply": { "model": "gutenbergpress:block/platen" }
+    },
+    {
+      "when": { "part": "platen_low" },
+      "apply": { "model": "gutenbergpress:block/platen_lowered" }
+    },
+    {
+      "when": { "part": "screw" },
+      "apply": { "model": "gutenbergpress:block/press_screw" }
+    },
+    {
+      "when": { "part": "screw_turned" },
+      "apply": { "model": "gutenbergpress:block/press_screw_turned" }
+    },
+    {
+      "when": { "part": "screw_handle" },
+      "apply": { "model": "gutenbergpress:block/screw_handle" }
+    },
+    {
+      "when": { "part": "screw_handle_turned" },
+      "apply": { "model": "gutenbergpress:block/screw_handle_turned" }
+    }
+  ]
+}
